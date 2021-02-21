@@ -1,0 +1,3 @@
+The primitive data type int is very limited in what data types can be used with it, only binary values of number s can be stored within it. The class Integer can store a larger amount of data types in it, and can
+also convert and compute different data while also storing values within it. Methods and functionality also come with the Integer class that the int variables do not have. The advantage of an int is that its 
+value is concise and can be stored in a stack with faster operations. Integers can be used to create objects or object classes while also creating methods to use it such as a list with List<Intiger>.
